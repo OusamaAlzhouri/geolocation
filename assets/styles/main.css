@@ -32,4 +32,32 @@ body {
     background-color: #2f54eb;
     color: white;
     border-radius: 8px;
-  } 
+  }
+  
+  
+  .hero {
+    text-align: center;
+    padding: 4rem 1rem;
+    background-color: #f0f2ff;
+  }
+  
+  .hero h1 {
+    font-size: 2.5rem;
+    color: #2f54eb;
+  }
+  
+  .hero p {
+    font-size: 1.1rem;
+    margin: 1rem 0;
+  }
+  
+  .hero button {
+    padding: 0.75rem 2rem;
+    background-color: #2f54eb;
+    color: white;
+    border: none;
+    border-radius: 6px;
+    font-size: 1rem;
+    cursor: pointer;
+    box-shadow: 0 4px 6px rgba(0,0,0,0.1);
+  }
